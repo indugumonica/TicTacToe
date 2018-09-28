@@ -1,2 +1,2 @@
 # TicTacToe
-TicTacToe program inn python
+TicTacToe program in python
